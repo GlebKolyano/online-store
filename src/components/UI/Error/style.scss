@@ -1,0 +1,19 @@
+.error {
+  position: absolute;
+  height: fit-content;
+  padding: 1rem 2rem;
+  top: 10%;
+  box-shadow: -1px 1px 5px 1px rgba(34, 60, 80, 0.1);
+  user-select: none;
+}
+
+.error__text {
+  font-size: 2.2rem;
+  color: rgb(76, 58, 58);
+}
+
+.error__icon {
+  font-size: 3.4rem;
+  color: rgb(255, 115, 115);
+  text-shadow: 1px 1px 1px rgb(133, 42, 42);
+}
